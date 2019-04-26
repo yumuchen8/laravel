@@ -14,3 +14,18 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/1', function () {
+    return view('welcome');
+});
+Route::get('/2', function () {
+    return view('welcome');
+});
+Route::get('/3', function () {
+    return view('welcome');
+});
+Route::get('/4', function () {
+    return view('welcome');
+});
+Route::get('/5', function () {
+    return view('welcome');
+});
